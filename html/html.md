@@ -79,3 +79,44 @@ resultado.innerHTML = Math.random() \* 50;
 2. Math.random() \* 50 irá gerar um número aleatório e após isto o multiplica por 50.
 3. Este resultado é atribuido ao parágrafo no body, por conta do "<p id="resultado"></p>"
 4. A operação é refeita por conta do metadado "<meta http-equiv="refresh" content="4" />" atualizando o número que é exibido para o usuário.
+
+// Texto do Documento
+
+<h1>Parte do texto com maior destaque.</h1> / Define o tamanho do texto que está dentro.
+
+/ Este tipo de configuração de estilo pode ir desde o <h1> que é o maior até o <h6> que é o menor.
+
+<hgroup>Agrupar os textos de cabeçalho.</hgroup>
+
+<br> Quebra de linha.
+
+<p><b> em destaque </b></p>
+<p><i> em italico </i></p>
+<p><u> Texto em sublinhado </u></p>
+<p><sub> Texto em subscrito </sub></p>
+<p><sup> Texto em superescrito </sup></p>
+<p><s> Texto em riscado </s></p>
+
+// Listas em html
+
+<ul>Para listas não ordenadas.</ul> {
+    type="square" //Altera o * para quadrados minúsculos.
+    type="circle" //Semelhante ao * porém é 'oco'/vazio.
+}
+
+<ol>Para listas ordenadas.</ul> {
+    type="1" //Sequência de 1,2,3...
+    type="A" //Sequência de A,B,C...
+    type="a" //Sequência de a,b,c...
+    type="I" //Sequência de I,II,III...
+    type="i" //Sequência de i,ii,iii...
+}
+
+<dl>Lista com descrição</dl> {
+    <dt>Título da descrição.</dt>
+    <dd>A descrição em si.<dd>
+}
+
+<i></i> e <em></em> realizam a mesma função graficamente (inclinar o texto), possuem apenas diferenças de significado, i em itálico e em de ênfase.
+
+<strong></strong> e <b></b> realizam a mesma função graficamente. Apenas diferença de semântica.
