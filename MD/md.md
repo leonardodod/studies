@@ -1,6 +1,6 @@
 | Markdown               | Rendered Output |
 | ---------------------- | --------------- |
-| # Heading level 1      | Title           |
+| # Heading level 1      | <h1>Title</h1>  |
 | ## Heading level 2     | Text            |
 | ### Heading level 3    | Title           |
 | #### Heading level 4   | Text            |
