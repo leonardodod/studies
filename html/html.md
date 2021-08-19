@@ -103,17 +103,17 @@ Dentro do campo estilo, podem ser definidos elementos de CSS, tais como a cor do
 
 ### Metadados
 
-```
-{
-// Utilizamos o metadado como Tags também, por exemplo nos diversos casos abaixo;
+Utilizamos o metadado como Tags também, por exemplo nos diversos casos abaixo.
 
-<meta> Dados sobre outros dados, um item de um metadado pode dizer do que se trata aquela informação,normalmente uma informação inteligível por um PC.
-<meta name= "author" content= "Leonardo de Oliveira Dias"> // Relaciona a informação "Autor" com a informação "Leonardo de Oliveira Dias".
-<meta name= "generator" content= "Visual Studio Code"> // "generator" e "VS Code" para indicar a partir de onde foi gerado.
-<meta name= "Keywords" content= "html, css, js"> // Indicar quais as palavras chaves do site, no caso de pesquisa.
-<meta name= "description" content= "Descrição da página"> // Literalmente, a descrição do que se trata a página.
-}
-```
+"<meta>" São dados sobre outros dados, um item de um metadado pode dizer do que se trata aquela informação.
+(normalmente uma informação inteligível por um PC.)
+
+| Code                                                       | Description                                                                  |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| <meta name= "author" content= "Leonardo de Oliveira Dias"> | Relaciona a informação "Autor" com a informação "Leonardo de Oliveira Dias". |
+| <meta name= "generator" content= "Visual Studio Code">     | "generator" e "VS Code" para indicar a partir de onde foi gerado.            |
+| <meta name= "Keywords" content= "html, css, js">           | Indicar quais as palavras chaves do site, no caso de pesquisa.               |
+| <meta name= "description" content= "Descrição da página">  | Literalmente, a descrição do que se trata a página.                          |
 
 ```
 function sorteioNumero() {
@@ -124,5 +124,5 @@ Esta função faz o seguinte,
 
 1. É chamada pelo evento "window.onload = sorteioNumero;"
 2. Math.random() \* 50 irá gerar um número aleatório e após isto o multiplica por 50.
-3. Este resultado é atribuido ao parágrafo no body, por conta do "<p id="resultado"></p>"
-4. A operação é refeita por conta do metadado "<meta http-equiv="refresh" content="4" />" atualizando o número que é exibido para o usuário.
+3. Este resultado é atribuido ao parágrafo no body, por conta do "< p id="resultado">< /p>"
+4. A operação é refeita por conta do metadado "< meta http-equiv="refresh" content="4" />" atualizando o número que é exibido para o usuário.
