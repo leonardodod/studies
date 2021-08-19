@@ -108,12 +108,12 @@ Utilizamos o metadado como Tags também, por exemplo nos diversos casos abaixo.
 "<meta>" São dados sobre outros dados, um item de um metadado pode dizer do que se trata aquela informação.
 (normalmente uma informação inteligível por um PC.)
 
-| Code                                                       | Description                                                                  |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <meta name= "author" content= "Leonardo de Oliveira Dias"> | Relaciona a informação "Autor" com a informação "Leonardo de Oliveira Dias". |
-| <meta name= "generator" content= "Visual Studio Code">     | "generator" e "VS Code" para indicar a partir de onde foi gerado.            |
-| <meta name= "Keywords" content= "html, css, js">           | Indicar quais as palavras chaves do site, no caso de pesquisa.               |
-| <meta name= "description" content= "Descrição da página">  | Literalmente, a descrição do que se trata a página.                          |
+| Code                                                        | Description                                                                  |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| < meta name= "author" content= "Leonardo de Oliveira Dias"> | Relaciona a informação "Autor" com a informação "Leonardo de Oliveira Dias". |
+| < meta name= "generator" content= "Visual Studio Code">     | "generator" e "VS Code" para indicar a partir de onde foi gerado.            |
+| < meta name= "Keywords" content= "html, css, js">           | Indicar quais as palavras chaves do site, no caso de pesquisa.               |
+| < meta name= "description" content= "Descrição da página">  | Literalmente, a descrição do que se trata a página.                          |
 
 ```
 function sorteioNumero() {
