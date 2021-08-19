@@ -23,10 +23,6 @@ To create paragraphs, use a blank line to separate one or more lines of text.
 
 Unless the paragraph is in a list, don’t indent paragraphs with spaces or tabs.
 
-# Paragraph Best Practices
-
-Unless the paragraph is in a list, don’t indent paragraphs with spaces or tabs.
-
 # Line Breaks
 
 To create a line break (<br>), end a line with two or more spaces, and then type return.
@@ -107,3 +103,11 @@ Task lists allow you to create a list of items with checkboxes. In Markdown appl
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+### Basic Syntax
+
+All of it came from https://www.markdownguide.org/basic-syntax
+
+### Extended Syntax
+
+All of it came from https://www.markdownguide.org/extended-syntax/#fenced-code-blocks
