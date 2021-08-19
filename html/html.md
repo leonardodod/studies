@@ -2,33 +2,32 @@
 
 ## Estruturação
 
-| Code    | Description                           |
-| ------- | ------------------------------------- |
-| <html>  | Indica o início do documento em html. |
-| </html> | Indica o fim do documento em html.    |
-| <head>  | Início do cabeçalho.                  |
-| </head> | Fim do cabeçalho.                     |
-| <body>  | Início do corpo do código.            |
-| </body> | Fim do corpo do código.               |
+| Code     | Description                  |
+| -------- | ---------------------------- |
+| < html>  | Início do documento em html. |
+| < /html> | Fim do documento em html.    |
+| < head>  | Início do cabeçalho.         |
+| < /head> | Fim do cabeçalho.            |
+| < body>  | Início do corpo do código.   |
+| < /body> | Fim do corpo do código.      |
 
 ## Configurações do documento
 
-| Code                   | Description                                                                                                           |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <!DOCTYPE html>        | Especificar o tipo de documento.                                                                                      |
-| <html lang="pt-BR">    | lang="pt-BR" indica o idioma do documento.                                                                            |
-| <meta charset="utf-8"> | Configuração de caracteres, existem diversos conjuntos de caracteres, utf-8 é um conjunto que abrange muitas línguas. |
+| Code                    | Description                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| < !DOCTYPE html>        | Especificar o tipo de documento.                                                                                      |
+| < html lang="pt-BR">    | lang="pt-BR" indica o idioma do documento.                                                                            |
+| < meta charset="utf-8"> | Configuração de caracteres, existem diversos conjuntos de caracteres, utf-8 é um conjunto que abrange muitas línguas. |
 
 ## Estilização
 
-| Code    | Description                                       |
-| ------- | ------------------------------------------------- |
-| <p>     | Início do parágrafo.                              |
-| </p>    | Fim do parágrafo.                                 |
-| &euro;  | Permite adicionar diversos caracteres diferentes. |
-| </head> | Fim do cabeçalho.                                 |
-| <body>  | Início do corpo do código.                        |
-| </body> | Fim do corpo do código.                           |
+| Code     | Description                                       |
+| -------- | ------------------------------------------------- |
+| < p>     | Início do parágrafo.                              |
+| < /p>    | Fim do parágrafo.                                 |
+| &euro;   | Permite adicionar diversos caracteres diferentes. |
+| < body>  | Início do corpo do código.                        |
+| < /body> | Fim do corpo do código.                           |
 
 -> Html é um conjunto do body e do head;
 
