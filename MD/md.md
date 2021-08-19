@@ -1,3 +1,12 @@
+| Markdown               | Rendered Output |
+| ---------------------- | --------------- |
+| # Heading level 1      | Title           |
+| ## Heading level 2     | Text            |
+| ### Heading level 3    | Title           |
+| #### Heading level 4   | Text            |
+| ##### Heading level 5  | Title           |
+| ###### Heading level 6 | Text            |
+
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |
