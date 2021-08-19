@@ -13,16 +13,3 @@ Roadmap
   }
 
 - Curso de React (Gabriel) 15/09
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
