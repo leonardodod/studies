@@ -13,3 +13,8 @@ Roadmap
   }
 
 - Curso de React (Gabriel) 15/09
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
