@@ -64,6 +64,9 @@
 | < style="" "border:1px solid #000"> | Coloca uma borda na imagem de 1 píxel de espessura e da cor preta. |
 | < image src="" class="">            | Permite criar predefinições de estilo.                             |
 | < figure> < figcaption>             | Colocar rodapé na imagem.                                          |
+| < a href="">< /a>                   | Adicionar hiperlinks.                                              |
+| < a href="" target="\_blank">       | Faz com que o hiperlink abra em uma nova guia ou aba.              |
+| < a href="#id_name">                | Cria um hiperlink com a tag que possua o respectivo id.            |
 
 ### alt="" As outras duas funções são as seguintes:
 
