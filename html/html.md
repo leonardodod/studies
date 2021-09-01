@@ -62,6 +62,7 @@
 | < style="" "margin-bottom:1px">     | Coloca uma margem de 1 pixeis na direção desejada.                 |
 | < style="" "margin-top:1px">        | Coloca uma margem de 1 pixeis na direção desejada.                 |
 | < style="" "border:1px solid #000"> | Coloca uma borda na imagem de 1 píxel de espessura e da cor preta. |
+| < style="" list-style-image: "";    | Seleciona uma imagem para ser o estilo da lista.                   |
 | < image src="" class="">            | Permite criar predefinições de estilo.                             |
 | < figure> < figcaption>             | Colocar rodapé na imagem.                                          |
 | < a href="">< /a>                   | Adicionar hiperlinks.                                              |
