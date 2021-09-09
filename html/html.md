@@ -46,7 +46,6 @@
 | < sub>< /sub>                       | Texto em subscrito.                                                |
 | < sup>< /sup>                       | Texto em superescrito.                                             |
 | < s>< /s>                           | Texto em riscado.                                                  |
-| Code                                | Description                                                        |
 | background: #FFFF;                  | Selecionar a cor de fundo em hexadecimal.                          |
 | font-family: Arial;                 | Selecionar a fonte das letras.                                     |
 | color: #FFF;                        | Selecionar a cor das letras.                                       |
@@ -68,6 +67,9 @@
 | < a href="">< /a>                   | Adicionar hiperlinks.                                              |
 | < a href="" target="\_blank">       | Faz com que o hiperlink abra em uma nova guia ou aba.              |
 | < a href="#id_name">                | Cria um hiperlink com a tag que possua o respectivo id.            |
+| < small>                            | Comentários menores, normalmente usados para copyrights.           |
+| < address>                          | Informações de contato referente a última tag usada.               |
+| < mark>                             | Adiciona um efeito de marcador.                                    |
 
 ### alt="" As outras duas funções são as seguintes:
 
