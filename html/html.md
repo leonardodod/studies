@@ -70,6 +70,16 @@
 | < small>                            | Comentários menores, normalmente usados para copyrights.           |
 | < address>                          | Informações de contato referente a última tag usada.               |
 | < mark>                             | Adiciona um efeito de marcador.                                    |
+| < form>                             | Cria um formulário.                                                |
+| < input>                            | Insere um campo no formulário.                                     |
+| < input type="text">                | Definir o tipo do campo, etc.                                      |
+| < input type="submit">              | Define o tipo do campo para uma função de envio.                   |
+| < input name="nome">                | Definir o nome para o campo.                                       |
+| < input id="">                      | Identificadordo campo.                                             |
+| < input size="">                    | Define o tamanho do campo em caracteres.                           |
+| < input maxlength="">               | Define o limite de caracteres máximos.                             |
+| < label>Descrição<\label>           | Descrição do campo, visível para o usuário.                        |
+| < label for="id">                   | Aplica a descrição para o id especificado.                         |
 
 ### alt="" As outras duas funções são as seguintes:
 
