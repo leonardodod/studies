@@ -74,6 +74,10 @@
 | < input>                            | Insere um campo no formulário.                                     |
 | < input type="text">                | Definir o tipo do campo, etc.                                      |
 | < input type="submit">              | Define o tipo do campo para uma função de envio.                   |
+| < input type="tel">                 | Define o tipo do campo para número de telefone.                    |
+| < input type="email">               | Define o tipo do campo para endereço de email.                     |
+| < input type="url">                 | Define o tipo do campo para hyperlink.                             |
+| < input type="url" required>        | Colocar este comando no fim da tag define o campo como requerido.  |
 | < input name="nome">                | Definir o nome para o campo.                                       |
 | < input id="">                      | Identificadordo campo.                                             |
 | < input size="">                    | Define o tamanho do campo em caracteres.                           |
