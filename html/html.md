@@ -21,69 +21,72 @@
 
 ## Estilização
 
-| Code                                | Description                                                        |
-| ----------------------------------- | ------------------------------------------------------------------ |
-| < p>                                | Início do parágrafo.                                               |
-| < /p>                               | Fim do parágrafo.                                                  |
-| &euro                               | Permite adicionar diversos caracteres diferentes.                  |
-| < body>                             | Início do corpo do código.                                         |
-| < /body>                            | Fim do corpo do código.                                            |
-| < style>                            | Início do elemento de estilo.                                      |
-| < /style>                           | Fim do elemento de estilo.                                         |
-| < script>                           | Início do script.                                                  |
-| < /script>                          | Fim do script.                                                     |
-| # Heading level 1                   | <h1>Minha vontade de estudar.</h1>                                 |
-| ## Heading level 2                  | <h2>Muito grande.</h2>                                             |
-| ### Heading level 3                 | <h3>Grande.</h3>                                                   |
-| #### Heading level 4                | <h4>Normal.</h4>                                                   |
-| ##### Heading level 5               | <h5>Pequeno.</h5>                                                  |
-| ###### Heading level 6              | <h6>Bem pequeno.</h6>                                              |
-| < hgroup>< /hgroup>                 | Agrupar os textos de cabeçalho.                                    |
-| < br />                             | Quebra de linha.                                                   |
-| < b>< /b>                           | <b>Em destaque</b>                                                 |
-| < i>< /i>                           | Em itálico</p>                                                     |
-| < u>< /u>                           | Texto em sublinhado.                                               |
-| < sub>< /sub>                       | Texto em subscrito.                                                |
-| < sup>< /sup>                       | Texto em superescrito.                                             |
-| < s>< /s>                           | Texto em riscado.                                                  |
-| background: #FFFF;                  | Selecionar a cor de fundo em hexadecimal.                          |
-| font-family: Arial;                 | Selecionar a fonte das letras.                                     |
-| color: #FFF;                        | Selecionar a cor das letras.                                       |
-| < image src="diretório">            | Adiciona uma imagem.                                               |
-| < image src="" width="">            | Define a largura da imagem.                                        |
-| < image src="" heigth="">           | Define a altura da imagem.                                         |
-| < image src="" title="">            | Nome da imagem.                                                    |
-| < image src="" alt="">              | Mesmo que o title, porém com duas funções a mais.                  |
-| < image src="" style="">            | Atribue elementos de estilo na tag.                                |
-| < style="" "float:left">            | Força a imagem a ficar na esquerda.                                |
-| < style="" "margin-right:1px">      | Coloca uma margem de 1 pixeis na direção desejada.                 |
-| < style="" "margin-left:1px">       | Coloca uma margem de 1 pixeis na direção desejada.                 |
-| < style="" "margin-bottom:1px">     | Coloca uma margem de 1 pixeis na direção desejada.                 |
-| < style="" "margin-top:1px">        | Coloca uma margem de 1 pixeis na direção desejada.                 |
-| < style="" "border:1px solid #000"> | Coloca uma borda na imagem de 1 píxel de espessura e da cor preta. |
-| < style="" list-style-image: "";    | Seleciona uma imagem para ser o estilo da lista.                   |
-| < image src="" class="">            | Permite criar predefinições de estilo.                             |
-| < figure> < figcaption>             | Colocar rodapé na imagem.                                          |
-| < a href="">< /a>                   | Adicionar hiperlinks.                                              |
-| < a href="" target="\_blank">       | Faz com que o hiperlink abra em uma nova guia ou aba.              |
-| < a href="#id_name">                | Cria um hiperlink com a tag que possua o respectivo id.            |
-| < small>                            | Comentários menores, normalmente usados para copyrights.           |
-| < address>                          | Informações de contato referente a última tag usada.               |
-| < mark>                             | Adiciona um efeito de marcador.                                    |
-| < form>                             | Cria um formulário.                                                |
-| < input>                            | Insere um campo no formulário.                                     |
-| < input type="text">                | Definir o tipo do campo, etc.                                      |
-| < input type="submit">              | Define o tipo do campo para uma função de envio.                   |
-| < input type="tel">                 | Define o tipo do campo para número de telefone.                    |
-| < input type="email">               | Define o tipo do campo para endereço de email.                     |
-| < input type="url">                 | Define o tipo do campo para hyperlink.                             |
-| < input type="url" required>        | Colocar este comando no fim da tag define o campo como requerido.  |
-| < input name="nome">                | Definir o nome para o campo.                                       |
-| < input id="">                      | Identificadordo campo.                                             |
-| < input size="">                    | Define o tamanho do campo em caracteres.                           |
-| < input maxlength="">               | Define o limite de caracteres máximos.                             |
-| < label>Descrição<\label>           | Descrição do campo, visível para o usuário.                        |
-| < label for="id">                   | Aplica a descrição para o id especificado.                         |
+| Code                                                        | Description                                                           |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- |
+| < p>                                                        | Início do parágrafo.                                                  |
+| < /p>                                                       | Fim do parágrafo.                                                     |
+| &euro                                                       | Permite adicionar diversos caracteres diferentes.                     |
+| < body>                                                     | Início do corpo do código.                                            |
+| < /body>                                                    | Fim do corpo do código.                                               |
+| < style>                                                    | Início do elemento de estilo.                                         |
+| < /style>                                                   | Fim do elemento de estilo.                                            |
+| < script>                                                   | Início do script.                                                     |
+| < /script>                                                  | Fim do script.                                                        |
+| # Heading level 1                                           | <h1>Minha vontade de estudar.</h1>                                    |
+| ## Heading level 2                                          | <h2>Muito grande.</h2>                                                |
+| ### Heading level 3                                         | <h3>Grande.</h3>                                                      |
+| #### Heading level 4                                        | <h4>Normal.</h4>                                                      |
+| ##### Heading level 5                                       | <h5>Pequeno.</h5>                                                     |
+| ###### Heading level 6                                      | <h6>Bem pequeno.</h6>                                                 |
+| < hgroup>< /hgroup>                                         | Agrupar os textos de cabeçalho.                                       |
+| < br />                                                     | Quebra de linha.                                                      |
+| < b>< /b>                                                   | <b>Em destaque</b>                                                    |
+| < i>< /i>                                                   | Em itálico</p>                                                        |
+| < u>< /u>                                                   | Texto em sublinhado.                                                  |
+| < sub>< /sub>                                               | Texto em subscrito.                                                   |
+| < sup>< /sup>                                               | Texto em superescrito.                                                |
+| < s>< /s>                                                   | Texto em riscado.                                                     |
+| background: #FFFF;                                          | Selecionar a cor de fundo em hexadecimal.                             |
+| font-family: Arial;                                         | Selecionar a fonte das letras.                                        |
+| color: #FFF;                                                | Selecionar a cor das letras.                                          |
+| < image src="diretório">                                    | Adiciona uma imagem.                                                  |
+| < image src="" width="">                                    | Define a largura da imagem.                                           |
+| < image src="" heigth="">                                   | Define a altura da imagem.                                            |
+| < image src="" title="">                                    | Nome da imagem.                                                       |
+| < image src="" alt="">                                      | Mesmo que o title, porém com duas funções a mais.                     |
+| < image src="" style="">                                    | Atribue elementos de estilo na tag.                                   |
+| < style="" "float:left">                                    | Força a imagem a ficar na esquerda.                                   |
+| < style="" "margin-right:1px">                              | Coloca uma margem de 1 pixeis na direção desejada.                    |
+| < style="" "margin-left:1px">                               | Coloca uma margem de 1 pixeis na direção desejada.                    |
+| < style="" "margin-bottom:1px">                             | Coloca uma margem de 1 pixeis na direção desejada.                    |
+| < style="" "margin-top:1px">                                | Coloca uma margem de 1 pixeis na direção desejada.                    |
+| < style="" "border:1px solid #000">                         | Coloca uma borda na imagem de 1 píxel de espessura e da cor preta.    |
+| < style="" list-style-image: "";                            | Seleciona uma imagem para ser o estilo da lista.                      |
+| < image src="" class="">                                    | Permite criar predefinições de estilo.                                |
+| < figure> < figcaption>                                     | Colocar rodapé na imagem.                                             |
+| < a href="">< /a>                                           | Adicionar hiperlinks.                                                 |
+| < a href="" target="\_blank">                               | Faz com que o hiperlink abra em uma nova guia ou aba.                 |
+| < a href="#id_name">                                        | Cria um hiperlink com a tag que possua o respectivo id.               |
+| < small>                                                    | Comentários menores, normalmente usados para copyrights.              |
+| < address>                                                  | Informações de contato referente a última tag usada.                  |
+| < mark>                                                     | Adiciona um efeito de marcador.                                       |
+| < form>                                                     | Cria um formulário.                                                   |
+| < input>                                                    | Insere um campo no formulário.                                        |
+| < input type="text">                                        | Definir o tipo do campo, etc.                                         |
+| < input type="submit">                                      | Define o tipo do campo para uma função de envio.                      |
+| < input type="tel">                                         | Define o tipo do campo para número de telefone.                       |
+| < input type="email">                                       | Define o tipo do campo para endereço de email.                        |
+| < input type="url">                                         | Define o tipo do campo para hyperlink.                                |
+| < input type="url" required>                                | Colocar este comando no fim da tag define o campo como requerido.     |
+| < input name="nome">                                        | Definir o nome para o campo.                                          |
+| < input id="">                                              | Identificadordo campo.                                                |
+| < input size="">                                            | Define o tamanho do campo em caracteres.                              |
+| < input maxlength="">                                       | Define o limite de caracteres máximos.                                |
+| < label>Descrição<\label>                                   | Descrição do campo, visível para o usuário.                           |
+| < label for="id">                                           | Aplica a descrição para o id especificado.                            |
+| < placeholder="">                                           | Mensagem dentro do campo.                                             |
+| < autofocus>                                                | Faz com que o campo já esteja selecionado assim que acessar a página. |
+| < input type="number" name="" id="" min="" max="" value=""> | Define um campo numeral, que pode adicionar ou remover números.       |
 
 ### alt="" As outras duas funções são as seguintes:
 
